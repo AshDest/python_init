@@ -1,4 +1,2 @@
-print('Hello Wold')
-print('Hello Wold')
-print('Hello Wold')
-print('Hello Wold')
+a = 5
+print(id(a))
