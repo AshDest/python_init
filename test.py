@@ -1,2 +1,5 @@
 a = 5
-print(id(a))
+b = "10"
+b = int(b)
+print(a + b)
+
