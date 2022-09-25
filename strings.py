@@ -1,0 +1,5 @@
+print("bonjour".upper())
+print("BONJOUR".lower())
+print("bonjour lundi de mardi".capitalize())
+print("bonjour lundi de mardi".title())
+print("\u2764 \u2764 \u2764 \u2764 \u2764 \u2764 \u2764 \u2764 \u2764")
