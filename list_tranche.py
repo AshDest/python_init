@@ -9,3 +9,4 @@ print(liste[-4:-1]) # A partir de l'index -4 jusqu'a l'index -1 de la liste
 print(liste[:2]) # A partir du debut, jusqu'a l'index 2 de la liste
 print(liste[2:]) # A partir de l'index 2, jusqu'a la fin de la liste
 print(liste[::2]) #utilisation des pas dans une liste
+print(liste[::-1]) # pour inverser une liste
