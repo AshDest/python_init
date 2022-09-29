@@ -10,3 +10,13 @@ print(round(2.7)) # il va arrondir a 3
 
 print(min([1,2,4,3])) # Minimum
 print(max([1,2,4,3])) # Maximum
+print(min("abc"))
+print(max("abc"))
+
+# == Fonction de la sommation ==
+
+print(sum([10, 10, 10, 10]))
+
+# ===  Fonction Range : pour ranger des chiffre allant de 0 jusqu'a la valeur indiquee en argument ====
+
+print(range(6))
