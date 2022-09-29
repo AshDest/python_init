@@ -1,2 +1,2 @@
-for i in "destin":
+for i in ["destin"]:
     print(i)
